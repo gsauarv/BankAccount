@@ -2,7 +2,7 @@ import java.util.*;
 public class BankAccout
 {
    
-       //Here Will have the datatypes;
+       
        static String bankName ="Saurav's Bank " ; 
        static String bankAddress ="My Cozy Room ";
        static String bankCode = "01234";
